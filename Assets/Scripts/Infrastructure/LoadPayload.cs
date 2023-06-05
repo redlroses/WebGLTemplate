@@ -1,4 +1,4 @@
-﻿namespace CodeBase.Infrastructure
+﻿namespace Infrastructure
 {
     public readonly struct LoadPayload
     {

@@ -1,10 +1,7 @@
-using System;
-using System.Collections.Generic;
-using CodeBase.Data;
+using Data;
 using UnityEngine;
-using Object = UnityEngine.Object;
 
-namespace CodeBase.Tools.Extension
+namespace Tools.Extension
 {
     public static class DataExtensions
     {

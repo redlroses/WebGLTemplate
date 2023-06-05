@@ -1,12 +1,12 @@
-﻿using CodeBase.Infrastructure.AssetManagement;
-using CodeBase.Infrastructure.Factory;
-using CodeBase.Services;
-using CodeBase.Services.PersistentProgress;
-using CodeBase.Services.Randomizer;
-using CodeBase.Services.SaveLoad;
-using CodeBase.Services.StaticData;
+﻿using Infrastructure.AssetManagement;
+using Infrastructure.Factory;
+using Services;
+using Services.PersistentProgress;
+using Services.Randomizer;
+using Services.SaveLoad;
+using Services.StaticData;
 
-namespace CodeBase.Infrastructure.States
+namespace Infrastructure.States
 {
     public class BootstrapState : IState
     {

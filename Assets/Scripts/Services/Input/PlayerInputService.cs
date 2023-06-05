@@ -1,4 +1,4 @@
-namespace CodeBase.Services.Input
+namespace Services.Input
 {
     public class PlayerInputService : IPlayerInputService
     {

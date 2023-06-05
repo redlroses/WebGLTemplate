@@ -1,7 +1,7 @@
-﻿using CodeBase.Infrastructure.Factory;
-using CodeBase.Logic;
+﻿using Infrastructure.Factory;
+using Logic;
 
-namespace CodeBase.Infrastructure.States
+namespace Infrastructure.States
 {
     public class LoadLevelState : IPayloadedState<string>
     {

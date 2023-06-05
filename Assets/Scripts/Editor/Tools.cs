@@ -1,9 +1,9 @@
-﻿using CodeBase.Services;
-using CodeBase.Services.SaveLoad;
+﻿using Services;
+using Services.SaveLoad;
 using UnityEditor;
 using UnityEngine;
 
-namespace CodeBase.Editor
+namespace Editor
 {
     public class Tools
     {

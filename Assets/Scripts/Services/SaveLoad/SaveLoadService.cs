@@ -1,10 +1,10 @@
-using CodeBase.Data;
-using CodeBase.Infrastructure.Factory;
-using CodeBase.Services.PersistentProgress;
-using CodeBase.Tools.Extension;
+using Data;
+using Infrastructure.Factory;
+using Services.PersistentProgress;
+using Tools.Extension;
 using UnityEngine;
 
-namespace CodeBase.Services.SaveLoad
+namespace Services.SaveLoad
 {
     public class SaveLoadService : ISaveLoadService
     {

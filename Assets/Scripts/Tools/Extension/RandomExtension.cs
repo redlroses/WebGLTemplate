@@ -2,7 +2,7 @@
 using System.Linq;
 using UnityEngine;
 
-namespace CodeBase.Tools.Extension
+namespace Tools.Extension
 {
     public static class RandomExtension
     {

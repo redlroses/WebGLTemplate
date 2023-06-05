@@ -1,9 +1,7 @@
-﻿using System.ComponentModel;
-using CodeBase.Tools.Constants;
-using CodeBase.Tools.PhysicsDebug;
+﻿using Tools.Constants;
 using UnityEngine;
 
-namespace CodeBase.Tools.Extension
+namespace Tools.Extension
 {
     public static class VectorExtensions
     {

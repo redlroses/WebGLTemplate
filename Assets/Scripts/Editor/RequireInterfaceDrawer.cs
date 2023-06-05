@@ -1,10 +1,10 @@
 using System;
-using CodeBase.Tools;
 using NTC.Global.Cache;
+using Tools;
 using UnityEditor;
 using UnityEngine;
 
-namespace CodeBase.Editor
+namespace Editor
 {
     [CustomPropertyDrawer(typeof(RequireInterface))]
     public class RequireInterfaceDrawer : PropertyDrawer

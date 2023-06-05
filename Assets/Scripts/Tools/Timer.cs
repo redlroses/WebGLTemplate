@@ -2,7 +2,7 @@
 using NTC.Global.Cache.Interfaces;
 using UnityEngine;
 
-namespace CodeBase.Tools
+namespace Tools
 {
     public class Timer : IRunSystem
     {

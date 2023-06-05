@@ -1,4 +1,4 @@
-﻿namespace CodeBase.Infrastructure
+﻿namespace Infrastructure
 {
     public static class LevelNames
     {

@@ -1,8 +1,8 @@
-using CodeBase.Data;
-using CodeBase.Services.PersistentProgress;
-using CodeBase.Services.SaveLoad;
+using Data;
+using Services.PersistentProgress;
+using Services.SaveLoad;
 
-namespace CodeBase.Infrastructure.States
+namespace Infrastructure.States
 {
     public class LoadProgressState : IState
     {

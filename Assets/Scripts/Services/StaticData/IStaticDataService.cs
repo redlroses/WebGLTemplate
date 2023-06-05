@@ -1,4 +1,4 @@
-﻿namespace CodeBase.Services.StaticData
+﻿namespace Services.StaticData
 {
   public interface IStaticDataService : IService
   {

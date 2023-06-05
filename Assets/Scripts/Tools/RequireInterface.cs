@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace CodeBase.Tools
+namespace Tools
 {
     public class RequireInterface : PropertyAttribute
     {

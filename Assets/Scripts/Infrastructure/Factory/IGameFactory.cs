@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using CodeBase.Services;
-using CodeBase.Services.PersistentProgress;
+using Services;
+using Services.PersistentProgress;
 
-namespace CodeBase.Infrastructure.Factory
+namespace Infrastructure.Factory
 {
     public interface IGameFactory : IService
     {

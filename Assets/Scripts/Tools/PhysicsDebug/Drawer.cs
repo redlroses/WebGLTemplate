@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace CodeBase.Tools.PhysicsDebug
+namespace Tools.PhysicsDebug
 {
     public static class Drawer
     {

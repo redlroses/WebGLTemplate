@@ -1,4 +1,4 @@
-﻿namespace CodeBase.Tools.Constants
+﻿namespace Tools.Constants
 {
     public static class Arithmetic
     {

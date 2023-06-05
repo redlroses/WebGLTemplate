@@ -1,7 +1,7 @@
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace CodeBase.Infrastructure.AssetManagement
+namespace Infrastructure.AssetManagement
 {
     public class AssetProvider : IAssetProvider
     {

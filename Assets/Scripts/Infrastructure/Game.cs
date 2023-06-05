@@ -1,8 +1,8 @@
-using CodeBase.Infrastructure.States;
-using CodeBase.Services;
-using CodeBase.Logic;
+using Infrastructure.States;
+using Logic;
+using Services;
 
-namespace CodeBase.Infrastructure
+namespace Infrastructure
 {
     public class Game
     {

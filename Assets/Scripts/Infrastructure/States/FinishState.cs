@@ -1,6 +1,6 @@
-﻿using CodeBase.Services.SaveLoad;
+﻿using Services.SaveLoad;
 
-namespace CodeBase.Infrastructure.States
+namespace Infrastructure.States
 {
     public class FinishState : IState
     {

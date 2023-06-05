@@ -1,10 +1,10 @@
 using System.Collections.Generic;
-using CodeBase.Infrastructure.AssetManagement;
-using CodeBase.Services.PersistentProgress;
-using CodeBase.Services.Randomizer;
+using Infrastructure.AssetManagement;
+using Services.PersistentProgress;
+using Services.Randomizer;
 using UnityEngine;
 
-namespace CodeBase.Infrastructure.Factory
+namespace Infrastructure.Factory
 {
     public class GameFactory : IGameFactory
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace CodeBase.Tools.Extension
+namespace Tools.Extension
 {
     public class CacheExtensions
     {
